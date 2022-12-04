@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Tugas 8 SQLite</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+
+    <string name="DesToko">Di Jamin Asli Dan Terpercaya</string>
+    <string name="Perlengkapan">Tipe Kamera 1. Canon, 2. Nikon, 3. Sony, 4. Lumix.</string>
+    <string name="Alamat">Jl.Malang No.31 Utara Alun - Alun Kota Malang</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawe</string>
+    <string name="deskription1">Bus merupakan kendaraan besar dan memiliki roda yang biasanya digunakan untuk mengangkut
+        orang atau penumpang. Untuk Bus ini memiliki roda empat, body yang panjang dan besar, serta dapat
+        memuat banyak orang.</string>
+    <string name="ingredients">Body Only And Lensa.</string>
+    <string name="Resep">Hitam Colour</string>
+    <string name="price">PRICE</string>
+    <string name="Harga_Kamera">Rp. 100.000</string>
+
+    <string name="deskription_nikon">Dalam transportasi di Indonesia, angkutan kota atau biasa disingkat angkot
+        adalah sebuah transportasi umum jenis taksi bersama dengan rute yang sudah ditentukan. </string>
+    <string name="ingredients1">Body Only And Lensa</string>
+    <string name="Resep1">" Silver Colour."</string>
+
+    <string name="deskription_sony">Taksi; adalah sebuah transportasi non-pribadi yang umumnya adalah sedan
+        serta dapat merujuk kepada angkutan umum lain selain mobil yang mengangkut penumpang dalam kapasitas kecil, misalnya "taksi air", yang sebenarnya mungkin hanya berupa sampan.</string>
+    <string name="Resep2">Body Only</string>
+    <string name="ingredients2">Hitam Colour</string>
+    <string name="price1">Rp. 200.000</string>
+
+    <string name="deskription_lumix">Becak adalah suatu moda transportasi beroda tiga yang umum ditemukan di Indonesia dan juga
+        di sebagian wilayah Asia. Kapasitas normal becak adalah dua orang penumpang dan seorang pengemudi.</string>
+    <string name="ingredients3">Body Only</string>
+    <string name="Resep3">Hitam And Silver Colour</string>
+    <string-array name="Kamera">
+        <item>Bus</item>
+        <item>Angkot</item>
+        <item>Taxi</item>
+        <item>Becak</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 100.000</item>
+        <item>Rp. 200.000</item>
+        <item>Rp. 300.000</item>
+        <item>Rp. 400.000</item>
+    </string-array>
+</resources>
